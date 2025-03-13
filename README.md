@@ -1,16 +1,11 @@
-# barkibu
+# Barkibu Technical Test
 
-A new Flutter project.
+Hola equipo!
+Primero, quiero agradecerles por la oportunidad y el tiempo que me han dado en este proceso.
 
-## Getting Started
+## Notas importantes
 
-This project is a starting point for a Flutter application.
+Antes que nada, me gustaría aclarar algunas cosas:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Nunca había trabajado con Flutter y estoy muy impresionado con todo el "tooling". La experiencia del desarrollador (DX) es excelente.
+- Seguramente que hay mucho espacio para mejora y solamente he probado el app en dispositivos de iOS.
